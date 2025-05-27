@@ -1,0 +1,8 @@
+# Tkinter is a core Python module but might need separate installation
+# on some Linux systems. For Debian/Ubuntu, use:
+# sudo apt-get install python3-tk
+#
+# This file is a placeholder to note such system-level dependencies
+# or could be used if other pip-installable packages are added later.
+# For example, if a package 'example-package' was needed, you would add:
+# example-package==1.0.0
